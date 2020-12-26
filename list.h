@@ -1,7 +1,6 @@
 // ----------------------------------------------------------------------
 // FILE: list.h
 // NAME: S. Bowers
-// DATE: August, 2020
 // DESC: Basic list interface for adding elements (at the end of the
 //       list or by index), getting an element stored in the list (by
 //       index), setting an element already stored in the list,
