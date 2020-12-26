@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/csuser/CPSC223/hw1-MAviles-Baquero/array_list.h
+list.h
+/home/csuser/CPSC223/hw1-MAviles-Baquero/list.h
+
+/home/csuser/CPSC223/hw1-MAviles-Baquero/hw1_perf.cpp
+stdlib.h
+-
+iostream
+-
+iomanip
+-
+fstream
+-
+chrono
+-
+string
+-
+list.h
+/home/csuser/CPSC223/hw1-MAviles-Baquero/list.h
+array_list.h
+/home/csuser/CPSC223/hw1-MAviles-Baquero/array_list.h
+linked_list.h
+/home/csuser/CPSC223/hw1-MAviles-Baquero/linked_list.h
+
+/home/csuser/CPSC223/hw1-MAviles-Baquero/linked_list.h
+list.h
+/home/csuser/CPSC223/hw1-MAviles-Baquero/list.h
+
+/home/csuser/CPSC223/hw1-MAviles-Baquero/list.h
+
