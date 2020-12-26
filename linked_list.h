@@ -1,7 +1,6 @@
  //----------------------------------------------------------------------
 // FILE: linked_list.h
-// NAME: Maria Elena Aviles-Baquero
-// DATE: September 23, 2020
+// NAME: Maria A-B
 // DESC: Implements a linked list version of the list class. Elements
 //       are added by default to the end of the list via a tail pointer.
 //----------------------------------------------------------------------
