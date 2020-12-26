@@ -1,7 +1,6 @@
 //----------------------------------------------------------------------
 // FILE: array_list.h
-// NAME: Maria Elena Aviles-Baquero
-// DATE: Septmber 23, 2020
+// NAME: Maria A-B
 // DESC: Implements a resizable array version of the list
 //       class. Elements are added by default to the last available
 //       index in the array. 
